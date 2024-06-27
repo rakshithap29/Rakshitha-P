@@ -1,0 +1,58 @@
+Resume
+
+Rakshitha P
+Master Of Computer Applications(MCA)
+Email: rakshithap431@gmail.com
+Phone: 9353990655
+
+Objective:
+To seek a job in the IT industry where I can utilize my skills and technical knowledge for the organization’s and individual growth.
+
+Education:
+SSLC
+ST.Teresa High School In Begur 
+Year: 2018
+
+PUC:
+Sadhguru Sainath PU and Degree International College,Bengaluru
+Year: 2020
+
+Degree:
+BCA
+Izee College Of Management and information Science,Bengaluru
+Year: 2023
+
+Master Degree 
+Master Of Computer Applications(MCA)-(Pursuing)
+Jyoti Nivas College Autonomous In koramangala ,Bengaluru
+
+Skills
+C,HTML,MySql,Java,Tally
+
+Projects:
+Title: Online Railway Ticket Booking Reservation(ORTBS)
+Front End: JavaScript,Bootstrap,HTML,CSS,jQuery
+Back End:  PHP,MYSQL
+Tool:Visual Studio
+
+Title: Employee and Visitor Gate Pass Login System(EVGPLS)
+Technology: HTML,CSS,JavaScript
+back End: PHP,MYSQL
+Tool:Android Studio
+
+Languages known:
+English
+Kannada
+
+Interest :
+Painting, Drawing, Art and Crafts
+
+
+Certificates:
+
+I have successfully completed my internship certificate in the field of Data Management and Recuruitment from NIYAMA company.
+
+
+Declaration:
+I hereby declare that above furnished particulars are true to the best of my knowledge and belief.
+
